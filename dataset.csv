@@ -1,0 +1,275 @@
+text,intent
+xin chào,greeting
+chào bạn,greeting
+chào cậu,greeting
+hello,greeting
+hi,greeting
+hế lô,greeting
+alo,greeting
+rất vui được gặp bạn,greeting
+bạn khỏe không,greeting
+cho mình hỏi chút,greeting
+xin chào bạn,greeting
+chào buổi sáng,greeting
+chào buổi tối,greeting
+hey there,greeting
+salut,greeting
+bonjour,greeting
+hola,greeting
+ciao,greeting
+namaste,greeting
+salaam,greeting
+chào trợ lý,greeting
+bạn có khỏe không,greeting
+rất vui gặp bạn,greeting
+hello assistant,greeting
+hi there,greeting
+bây giờ là mấy giờ,ask_time
+mấy giờ rồi,ask_time
+giờ hiện tại là bao nhiêu,ask_time
+xem giờ giúp mình,ask_time
+bạn ơi mấy giờ rồi,ask_time
+giờ giấc hiện tại là gì,ask_time
+đang là mấy giờ,ask_time
+bây giờ là mấy giờ vậy,ask_time
+thời gian hiện tại,ask_time
+cho biết giờ,ask_time
+giờ này là mấy giờ,ask_time
+xem đồng hồ,ask_time
+thời gian bây giờ,ask_time
+mấy giờ hiện tại,ask_time
+giờ ở việt nam,ask_time
+thời gian hiện tại,ask_time
+giờ phút giây,ask_time
+báo giờ,ask_time
+đồng hồ chỉ mấy giờ,ask_time
+giờ địa phương,ask_time
+hôm nay ngày mấy,ask_date
+hôm nay là ngày gì,ask_date
+ngày hôm nay là bao nhiêu,ask_date
+xem ngày giúp mình,ask_date
+hôm nay là thứ mấy,ask_date
+ngày hôm nay bao nhiêu,ask_date
+cho mình biết ngày hôm nay,ask_date
+xin ngày tháng hiện tại,ask_date
+ngày tháng năm nay,ask_date
+hôm nay ngày bao nhiêu,ask_date
+thứ mấy hôm nay,ask_date
+ngày hiện tại,ask_date
+cho biết ngày,ask_date
+ngày tháng hiện tại,ask_date
+hôm nay là ngày nào,ask_date
+ngày tháng năm,ask_date
+báo ngày,ask_date
+hôm nay thứ gì,ask_date
+ngày của năm,ask_date
+lịch hôm nay,ask_date
+mở google,open_google
+mở trang google,open_google
+mở google search,open_google
+mở trình duyệt google,open_google
+tìm kiếm trên google,open_google
+mở chrome đến google,open_google
+vào google giúp mình,open_google
+truy cập google,open_google
+mở trang tìm kiếm của google,open_google
+hãy tìm trên google,open_google
+tìm kiếm google,open_google
+mở google lên,open_google
+đi đến google,open_google
+search google,open_google
+open google,open_google
+mở google và tìm,open_google
+tìm trên google,open_google
+google search,open_google
+mở tìm kiếm google,open_google
+truy cập trang google,open_google
+mở website https://vnexpress.net,open_website
+mở trang https://facebook.com,open_website
+mở link https://github.com,open_website
+mở địa chỉ https://stackoverflow.com,open_website
+mở trang web https://tuoitre.vn,open_website
+mình muốn mở vnexpress.net,open_website
+mình muốn mở facebook.com,open_website
+hãy mở github.com,open_website
+open https://google.com,open_website
+cho mình mở https://www.youtube.com,open_website
+mở web vnexpress,open_website
+mở báo tuoitre,open_website
+mở trang facebook,open_website
+mở trang github,open_website
+mở báo thanhnien,open_website
+mở website youtube.com,open_website
+mở trang web amazon.com,open_website
+hãy mở stackoverflow,open_website
+open website reddit.com,open_website
+truy cập wikipedia.org,open_website
+mở site vnexpress,open_website
+mở link facebook,open_website
+đi đến github,open_website
+mở địa chỉ tuoitre,open_website
+mở web thanhnien,open_website
+mở word,open_app
+mở microsoft word,open_app
+mở excel,open_app
+mở microsoft excel,open_app
+mở chrome,open_app
+mở google chrome,open_app
+mở ứng dụng word,open_app
+mở app excel,open_app
+khởi động word,open_app
+khởi động excel,open_app
+open word,open_app
+open excel,open_app
+open chrome,open_app
+mở phần mềm word,open_app
+mở chương trình excel,open_app
+mở bài hát em của ngày hôm qua,play_song
+mở bài hát shape of you,play_song
+mở bài hát sơn tùng,play_song
+mở bài hát con cò,play_song
+mở bài hát nhạc trẻ,play_song
+mở bài hát despacito,play_song
+play em của ngày hôm qua,play_song
+play shape of you,play_song
+play sơn tùng,play_song
+play nhạc thiếu nhi,play_song
+mở nhạc bolero,play_song
+play song happy birthday,play_song
+mở bài hát noel,play_song
+play music relax,play_song
+mở nhạc edm,play_song
+play despacito,play_song
+mở bài hát yêu thích,play_song
+play random song,play_song
+mở nhạc pop,play_song
+play rock music,play_song
+mở bài hát mới,play_song
+play vietnamese song,play_song
+mở nhạc cổ điển,play_song
+play jazz,play_song
+mở bài hát kpop,play_song
+thông tin về Hà Nội,ask_wiki
+tìm hiểu về Nguyễn Du,ask_wiki
+Wikipedia về chiến tranh thế giới,ask_wiki
+Hồ Chí Minh là gì,ask_wiki
+tìm trên wiki về cách mạng tháng tám,ask_wiki
+thông tin về Thành phố Hồ Chí Minh,ask_wiki
+thông tin về Việt Nam,ask_wiki
+thông tin về Elon Musk,ask_wiki
+thông tin về Bill Gates,ask_wiki
+thông tin về Google,ask_wiki
+thông tin về Microsoft,ask_wiki
+thông tin về Apple,ask_wiki
+thông tin về VinFast,ask_wiki
+thông tin về Đại học Quốc gia Hà Nội,ask_wiki
+giới thiệu về Hà Nội,ask_wiki
+giới thiệu về Sài Gòn,ask_wiki
+giới thiệu về Việt Nam,ask_wiki
+giới thiệu về Amazon,ask_wiki
+giới thiệu về Facebook,ask_wiki
+giới thiệu về TikTok,ask_wiki
+giới thiệu về Samsung,ask_wiki
+giới thiệu về LG,ask_wiki
+giới thiệu về Intel,ask_wiki
+giới thiệu về Đại học Bách khoa Hà Nội,ask_wiki
+cho tôi biết về Hà Nội,ask_wiki
+cho tôi biết về Việt Nam,ask_wiki
+cho tôi biết về Hồ Chí Minh,ask_wiki
+cho tôi biết về Bill Gates,ask_wiki
+cho tôi biết về Steve Jobs,ask_wiki
+cho tôi biết về Google,ask_wiki
+cho tôi biết về Microsoft,ask_wiki
+cho tôi biết về ChatGPT,ask_wiki
+cho tôi biết về trí tuệ nhân tạo,ask_wiki
+cho tôi biết về học máy,ask_wiki
+tra cứu Hà Nội,ask_wiki
+tra cứu Sài Gòn,ask_wiki
+tra cứu Việt Nam,ask_wiki
+tra cứu Elon Musk,ask_wiki
+tra cứu Bill Gates,ask_wiki
+tra cứu Google,ask_wiki
+tra cứu Microsoft,ask_wiki
+tra cứu Apple,ask_wiki
+tra cứu VinFast,ask_wiki
+tra cứu Hồ Chí Minh,ask_wiki
+wiki Hà Nội,ask_wiki
+wiki Việt Nam,ask_wiki
+wiki Elon Musk,ask_wiki
+wiki Bill Gates,ask_wiki
+wiki Google,ask_wiki
+wiki Microsoft,ask_wiki
+wiki Apple,ask_wiki
+wiki VinFast,ask_wiki
+wiki trí tuệ nhân tạo,ask_wiki
+wiki học máy,ask_wiki
+Hà Nội là gì,ask_wiki
+Việt Nam là gì,ask_wiki
+Sài Gòn là gì,ask_wiki
+trí tuệ nhân tạo là gì,ask_wiki
+học máy là gì,ask_wiki
+deep learning là gì,ask_wiki
+blockchain là gì,ask_wiki
+tiền điện tử là gì,ask_wiki
+ChatGPT là gì,ask_wiki
+OpenAI là gì,ask_wiki
+ai là Hồ Chí Minh,ask_wiki
+ai là Võ Nguyên Giáp,ask_wiki
+ai là Elon Musk,ask_wiki
+ai là Bill Gates,ask_wiki
+ai là Steve Jobs,ask_wiki
+ai là Mark Zuckerberg,ask_wiki
+ai là Jeff Bezos,ask_wiki
+ai là Sundar Pichai,ask_wiki
+ai là Satya Nadella,ask_wiki
+ai là Nguyễn Ái Quốc,ask_wiki
+hãy cho tôi thông tin về Hà Nội,ask_wiki
+hãy cho tôi thông tin về Việt Nam,ask_wiki
+hãy cho tôi thông tin về Elon Musk,ask_wiki
+hãy cho tôi thông tin về Microsoft,ask_wiki
+hãy cho tôi thông tin về trí tuệ nhân tạo,ask_wiki
+hãy cho tôi thông tin về học máy,ask_wiki
+hãy cho tôi thông tin về blockchain,ask_wiki
+hãy cho tôi thông tin về tiền điện tử,ask_wiki
+hãy cho tôi thông tin về ChatGPT,ask_wiki
+hãy cho tôi thông tin về OpenAI,ask_wiki
+thời tiết hà nội,ask_weather
+nhiệt độ tại sài gòn,ask_weather
+thời tiết hôm nay ở đà nẵng,ask_weather
+nhiệt độ hiện tại hà nội,ask_weather
+thời tiết tp hcm,ask_weather
+dự báo thời tiết hà nội,ask_weather
+nhiệt độ ở huế,ask_weather
+thời tiết ở nha trang,ask_weather
+thời tiết việt nam,ask_weather
+nhiệt độ hiện nay tại hà nội,ask_weather
+thời tiết ở hà nội hôm nay,ask_weather
+nhiệt độ sài gòn,ask_weather
+thời tiết đà lạt,ask_weather
+nhiệt độ hiện tại tp hcm,ask_weather
+dự báo thời tiết sài gòn,ask_weather
+thời tiết phú quốc,ask_weather
+nhiệt độ ở hà nội,ask_weather
+thời tiết ở hội an,ask_weather
+thời tiết miền bắc,ask_weather
+nhiệt độ miền nam,ask_weather
+tin tức mới nhất,ask_news
+tin tức hôm nay,ask_news
+cho tôi tin tức,ask_news
+tin tức việt nam,ask_news
+top headlines,ask_news
+tin tức mới,ask_news
+cập nhật tin tức,ask_news
+tin tức nóng hổi,ask_news
+news today,ask_news
+latest news,ask_news
+tin tức thế giới,ask_news
+tin tức trong ngày,ask_news
+cho biết tin tức,ask_news
+tin tức mới nhất việt nam,ask_news
+headlines today,ask_news
+tin tức cập nhật,ask_news
+news vietnam,ask_news
+tin tức hàng ngày,ask_news
+latest headlines,ask_news
+tin tức 24h,ask_news

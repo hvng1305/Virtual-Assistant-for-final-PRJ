@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Friday - Trợ lý ảo tiếng Việt</title>
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <!-- Intro bot -->
+  <div id="intro" class="intro fade-in">
+    <img src="/static/VA3D.gif" alt="Bot" class="bot-gif">
+    <p id="introText"></p>
+  </div>
+
+  <!-- Giao diện chat -->
+  <main id="chatContainer" class="chat-container hidden">
+    <header class="chat-header">
+      <span class="logo">Friday</span>
+    </header>
+
+    <div class="chat-box">
+      <div class="bot-area">
+        <img src="/static/VA3D.gif" alt="Bot" class="bot-gif">
+        <div id="assistantReply" class="bot-reply"></div>
+      </div>
+
+      <div class="user-input">
+        <textarea id="manualText" placeholder="Nhập tin nhắn..."></textarea>
+        <button id="btnSend">Gửi</button>
+        <button id="btnMic">🎤</button>
+      </div>
+    </div>
+  </main>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
