@@ -15,7 +15,7 @@ Dự án xây dựng một **trợ lý ảo thông minh** hỗ trợ người d�
 - 💬 Trả lời câu hỏi của người dùng  
 
 ## 🛠 Công nghệ sử dụng
-- **Python 3.18
+- **Python 3.18**
 - **Flask** (Web framework)  
 - **scikit-learn** (Machine Learning)  
 - **NLTK / Regex** (Xử lý ngôn ngữ tự nhiên)  
