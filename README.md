@@ -51,7 +51,6 @@ Dự án xây dựng một **trợ lý ảo thông minh** hỗ trợ người d�
 
 ---
 ## 📬 **Liên hệ**  
-- **Tác giả**: [Nguyễn Văn Hạnh]  
 - **Email**: [vhanh1366@gmail.com]  
 
 ---
