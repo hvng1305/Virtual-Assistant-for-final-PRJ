@@ -40,6 +40,7 @@ Dự án xây dựng một **trợ lý ảo thông minh** hỗ trợ người d�
    http://127.0.0.1:5000
 
 📸 Hình ảnh minh họa
+---
 🔹 Giao diện ứng dụng
 ---
 <div style="text-align: center; margin: 10px 0;"> <img src="./VirtualAssiAPP.png" alt="Giao diện chính của Friday" width="400"> </div> *Hình 1: Giao diện chính của trợ lý ảo Friday.*
@@ -47,8 +48,8 @@ Dự án xây dựng một **trợ lý ảo thông minh** hỗ trợ người d�
 🔹 Friday chào và phản hồi
 ---
 <div style="text-align: center; margin: 10px 0;"> <img src="./HelloVA.png" alt="Friday chào và trả lời" width="400"> </div> *Hình 2: Friday gửi lời chào và phản hồi lại yêu cầu của người dùng.* 
----
 
+---
 ## 📬 **Liên hệ**  
 - **Tác giả**: [Nguyễn Văn Hạnh]  
 - **Email**: [vhanh1366@gmail.com]  
