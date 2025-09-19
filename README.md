@@ -29,3 +29,12 @@ Dự án xây dựng một **trợ lý ảo thông minh** hỗ trợ người d�
    ```bash
    git clone https://github.com/<your-username>/<your-repo>.git
    cd <your-repo>
+2. Cài đặt thư viện cần thiết:
+   ```bash
+   pip install -r requirements.txt
+3. Chạy server Flask:
+   ```bash
+   python app.py
+4. Mở trình duyệt và truy cập:
+   ```bash
+   http://127.0.0.1:5000
